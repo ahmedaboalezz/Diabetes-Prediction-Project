@@ -39,14 +39,10 @@ The models were evaluated using multiple metrics to ensure reliability in a medi
 
 | Algorithm | Accuracy | Recall | F1-Score |
 | :--- | :---: | :---: | :---: |
-| Logistic Regression | 0.74 | 0.65 | 0.64 |
-| SVC | 0.74 | 0.65 | 0.64 |
-| Random Forest | 0.74 | 0.65 | 0.64 |
-| Gradient Boosting | 0.74 | 0.65 | 0.64 |
+| Logistic Regression | 0.76 | 0.65 | 0.54 |
+| SVC | 0.75 | 0.63 | 0.51 |
+| Random Forest | 0.74 | 0.57 | 0.58 |
+| Gradient Boosting | 0.73 | 0.56 | 0.54 |
 
-> *Note: Performance metrics based on current model iteration.*
 
-## 🚀 How to Run
-1. Clone the repository:
-   ```bash
-   git clone [https://github.com/YourUsername/diabetes-prediction.git](https://github.com/YourUsername/diabetes-prediction.git)
+
